@@ -1,1 +1,1 @@
-libraries{ gradle} 
+repo = "repo configuration"
